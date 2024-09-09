@@ -1,8 +1,5 @@
 # Devops
-It is a devops project
-
-
-it is 3rd
+It is 3rd
 
 
 
