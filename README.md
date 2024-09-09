@@ -1,3 +1,3 @@
 # Devops
 It is a devops project
-its is 1st
+It is 1st
